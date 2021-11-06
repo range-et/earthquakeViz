@@ -267,3 +267,5 @@ export async function loadAndRender(container) {
 // start of the chain of events that we described above
 let cont = document.getElementById('app');
 loadAndRender(cont);
+
+alert("The project mostly revolves around vizualizing the impact of earthquakes on people, hence in this case I picked to vizualize the earthquake prone region of LA with an overlay of the cencus tract populations (This data was merged independently in qgis). Some other features also include looking at the ring of fire https://www.nationalgeographic.org/encyclopedia/ring-fire/ as a heatmap (mostly to look at earthquakes at a rather zoomed out scale). Users can also hover over these earthquakes to get information about them.");
