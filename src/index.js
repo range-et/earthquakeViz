@@ -8,7 +8,7 @@ import { load } from '@loaders.gl/core';
 import { CSVLoader } from '@loaders.gl/csv';
 
 // Mapbox token
-mapboxgl.accessToken = "pk.eyJ1IjoicmFuZ2UtZXQiLCJhIjoiY2twMm82cDFwMDdtejJubWt4cG13OXlncCJ9.HBBODxL4-8y5G9mXCNwpdA";
+mapboxgl.accessToken = "pk.eyJ1IjoicmFuZ2UtZXQiLCJhIjoiY2t3cWxmN2UxMG56dDJwbW5od3NiYjhnZSJ9.BBUYjFQFREJCiSdVD_t1IA";
 
 const colours = [[105, 48, 195], [83, 144, 217], [72, 191, 227], [100, 223, 223], [128, 255, 219]]
 
